@@ -1,0 +1,4 @@
+github "Alamofire/Alamofire"
+github "tristanhimmelman/ObjectMapper"
+github "onevcat/Kingfisher"
+github "oscardemoya/test-ios-framework"
