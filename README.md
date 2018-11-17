@@ -1,2 +1,1 @@
-# test-ios-app
-Test iOS App
+# Test iOS App
